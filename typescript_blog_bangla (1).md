@@ -1,3 +1,5 @@
+
+---
 # TypeScript Blog - Interface, Type আর Union/Intersection
 
 **লেখক:** শিমুল মাহমুদ রুমেল  
@@ -7,7 +9,7 @@
 
 এই ব্লগে TypeScript এর দুইটা জিনিস নিয়ে আলোচনা করব।
 
----
+
 
 ## ১. Interface আর Type এর পার্থক্য
 
